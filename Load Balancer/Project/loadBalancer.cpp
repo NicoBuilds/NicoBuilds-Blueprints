@@ -53,6 +53,9 @@ int main()
 
                     if (!assignDigitsFromWeights(targets, adjustedFactors, all_digits)) {
                         std::cout << "The load balancer can't be created using the generic blueprint.\n";
+                        std::cout << "You tried to achieve the following division ratios:\n";
+                        std::cout << " - A: " << a_ratio.str() << "\n";
+                        std::cout << " - B: " << b_ratio.str() << "\n";
                         continue;
                     }
                     else {
@@ -61,6 +64,9 @@ int main()
                 }
                 else {
                     std::cout << "The load balancer can't be created using the generic blueprint.\n";
+                    std::cout << "You tried to achieve the following division ratios:\n";
+                    std::cout << " - A: " << a_ratio.str() << "\n";
+                    std::cout << " - B: " << b_ratio.str() << "\n";
                     continue;
                 }
             }
