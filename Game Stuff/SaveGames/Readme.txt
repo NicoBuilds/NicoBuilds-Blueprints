@@ -5,3 +5,9 @@ This savegame has exceeded the UObject limit. In order to use it you will need t
 I used to store over here all of my savegames, since I started the game to show the progression.
 I decided to keep only the last one, to make the repo lighter.
 Nevertheless I still have a local copy of the old savegames. If for any reason you want to check them out, just let me know! Leave me a comment on a youtube video or reddit post, and I post them! 
+
+Even though the world is vanilla, I use 2 mods for content creation that you will need to have installed.
+
+Just Fly Redux by Andre Aquila
+SkyUi by D4rk
+
